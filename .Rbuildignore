@@ -1,0 +1,12 @@
+^all_orig_dev_files$
+^.*\.Rproj$
+^\.Rproj\.user$
+^README\.Rmd$
+^LICENSE
+^track2kba_repAssess_output$
+^\.github$
+^cran-comments\.md$
+^CRAN-RELEASE$
+^data-raw$
+^version_changes2make.txt
+^CRAN-SUBMISSION$
